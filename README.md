@@ -1,0 +1,1 @@
+This is a project for The Odin Project course. The goal is to create a practice project to lear html and later css. 
